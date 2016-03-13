@@ -1,8 +1,10 @@
 #include <iostream>
 
-/* Part 1 */
+/* Part 1
 
 Um
+
+*/
 
 /* Part 2 */
 Template <typename Num> // Template declaration
@@ -21,12 +23,14 @@ cout << a << endl << modulusFive(a) << endl;
 cout << b << endl << modulusFive(b) << endl;
 cout << c << endl << modulusFive(c) << endl;
 
-/* Part 3 */
+/* Part 3
 
 Um
 
-/* Part 4 */
+*/
+
+/* Part 4
 
 We’ll get around to this at some point I swear
 
-
+*/
